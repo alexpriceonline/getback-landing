@@ -1,2 +1,1 @@
-# jump-website
-The Jump website
+# GetBack landing page
